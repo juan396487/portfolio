@@ -4,6 +4,7 @@
   "description": "OptimizedHTML 4 - Start HTML Template",
   "main": "index.js",
   "scripts": {
+  "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "WebDesign Master",
@@ -21,4 +22,6 @@
     "gulp-uglify": "^3.0.1",
     "gulp-util": "^3.0.8"
   }
+
+
 }

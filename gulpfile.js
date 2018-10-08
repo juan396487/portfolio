@@ -1,7 +1,7 @@
 var syntax        = 'scss'; // Syntax: sass or scss;
-ASdawda
+
 var gulp          = require('gulp'),
-		gutiil         = require('gulp-util' ),
+		gutil         = require('gulp-util' ),
 		sass          = require('gulp-sass'),
 		browserSync   = require('browser-sync'),
 		concat        = require('gulp-concat'),

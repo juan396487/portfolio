@@ -1,11 +1,11 @@
 {
-  "name": "optimizedhtml",
+  "name": "portfolio",
   "version": "4.0.0",
-  "description": "OptimizedHTML 4 - Start HTML Template",
+  "description": "Juan Avilez Sandoval Web Developer & Graphic Designer Portfolio",
   "main": "index.js",
   "scripts": {
-  "start": "gulp",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "start": "gulp"
+  
   },
   "author": "WebDesign Master",
   "license": "ISC",
